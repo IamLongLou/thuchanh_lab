@@ -37,7 +37,7 @@ void main() {
 
   // 3. BẢN ĐỒ (MAP - cặp key-value)
   Map<String, dynamic> student = {
-    "name": "Bùi Đức Duy",
+    "name": "Nguyen Bao Long",
     "age": 23,
     "gpa": 3.0
   };

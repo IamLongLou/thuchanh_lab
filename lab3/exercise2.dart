@@ -37,7 +37,7 @@ class UserRepository {
     List<Map<String, dynamic>> jsonList = [
       {"name": "Nguyen Van A", "email": "Anv@gmail.com"},
       {"name": "Nguyen Van B", "email": "Bnv@gmail.com"},
-      {"name": "Bui Van D", "email": "Dbv@gmail.com"},
+      {"name": "Nguyen Thi Lan", "email": "Lvt@gmail.com"},
     ];
 
     return jsonList.map((user) => User.fromJson(user)).toList();

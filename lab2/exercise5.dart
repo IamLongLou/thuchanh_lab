@@ -21,7 +21,7 @@ Future<void> main() async {
   print("Username: ${username ?? "Guest"}");
 
   // Gán giá trị
-  username = "Đức Duy";
+  username = "Bao Long";
 
   // Sử dụng ! để khẳng định giá trị không null
   print("Username length: ${username!.length}");
