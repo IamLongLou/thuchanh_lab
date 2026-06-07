@@ -24,7 +24,7 @@ Future<void> main() async {
   username = "Bao Long";
 
   // Sử dụng ! để khẳng định giá trị không null
-  print("Username length: ${username!.length}");
+  print("Username length: ${username.length}");
 
   // -- STREAM --
   print("\nStreaming numbers:");

@@ -1,0 +1,10 @@
+name: lab_prm393
+description: Lab exercises for PRM393.
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  uses-material-design: true
